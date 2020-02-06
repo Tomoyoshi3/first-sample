@@ -144,7 +144,7 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 44%;
+  top: 35%;
   width: 100%;
   color: white;
 }
@@ -196,7 +196,7 @@ footer {
 
 
 .header-menu-icon {
-  display: none;
+  display: none !important;
   float: right;
   font-size: 25px;
   padding-top: 21px;
